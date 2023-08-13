@@ -1,11 +1,13 @@
 ### Hey! 👋
 
+
 **I am a fluent Java developer, rimarily focusing on creating Minecraft plugins using the Spigot API.**
 
-**More Info:**
+
+More Info:
 - 🌎 I can complete any plugin commission
 - 🌱 I have an average knowledge of MongoDB
 - ⚡ I can create production-ready performant applications
 
-**Contact Me:**
+Contact Me:
 - You can reach me on Discord: **@MagMad**
