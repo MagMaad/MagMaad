@@ -1,7 +1,8 @@
 ### Hey! 👋
 
 
-**I am a fluent Java developer, rimarily focusing on creating Minecraft plugins using the Spigot API.**
+**I am a fluent Java developer, primarily focusing on**
+**creating Minecraft plugins using the Spigot API.**
 
 
 More Info:
