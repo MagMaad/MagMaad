@@ -1,4 +1,4 @@
-### Hey! 👋
+# MagMad
 
 
 **I am a fluent Java developer, primarily focusing on**
@@ -7,8 +7,15 @@
 
 More Info:
 - 🌎 I can complete any plugin commission
-- 🌱 I have an average knowledge of MongoDB
-- ⚡ I can create production-ready performant applications
+- 🌱 I have an average knowledge of SQL
+- ⚡ I am experienced with MongoDB
+
+I'm Experienced With:
+
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=linux,github,java,mysql,redis,mongodb)](https://skillicons.dev)
 
 Contact Me:
 - You can reach me on Discord: **@MagMad**
